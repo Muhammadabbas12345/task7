@@ -1,0 +1,932 @@
+/* sec1 start */
+#sec1{
+    background-image: url(./bd.jpg);
+    height: 700px;
+}
+.container1{
+    display: flex;
+ background-color: rgb(141, 141, 101) ;
+ opacity: 100px;
+  
+}
+.container1 h1{
+ margin-left: 15%;
+ color: white;
+}
+
+.div1{
+    display: flex;
+     margin-left: 36%; 
+    float: right;
+    
+}
+
+
+
+.div1 p{
+     margin-left: 18px; 
+    
+    color: white;
+}
+.div1 i{
+ margin: 18px;
+ color: white;
+}
+
+.div2{
+   text-align: center;
+   color: white;
+    margin-top: 8%; 
+ 
+   
+   
+
+}
+
+ .div2 h1{
+    color: white;
+    font-size: 45px;
+}
+
+.div2 h3{
+    color: white;
+    position: relative;
+    top: 20px;
+    font-size: 20px;
+  
+}
+
+.div2 p{
+    color: white;
+    position: relative;
+    bottom: 20px;
+    font-size: 20px;
+   
+   
+  
+}  
+
+.div3{
+    text-align: center;
+    
+   padding: 8%;
+   margin-bottom: 20px;
+   position: relative;
+   /* bottom: 20px; */
+
+   
+ 
+ }
+
+ .btn1{
+     border-top: 2px solid white;
+     border-radius: 3px;
+    color: white;
+
+     padding: 10px;
+     height: 35px;
+     background-color:  aquamarine;
+ }
+ .btn2{
+    border-top: 2px solid white;
+    border-radius: 3px;
+    color: white;
+    padding: 10px;
+    height: 35px;
+    background-color:  rgb(92, 185, 247);
+}
+
+.maindiv{
+    margin-left: 80%;
+
+ position: relative;
+bottom: 175px; 
+
+
+}
+
+.div4 img{
+    width: 120px;
+    height: 80px;
+}
+.div5 button{
+  
+    width: 40px;
+    height: 40px;
+    margin: 15px;
+    position: relative;
+    right: 10px;
+   
+}
+
+/* sec1 end*/
+
+.maindiv2{
+  display: flex;
+ 
+ 
+}
+
+
+
+.div6{
+    background-color: rgb(34, 48, 43);
+    text-align: center;
+    color:  aquamarine;
+    width: 100%;
+   
+    padding: 80px;
+    border-top: 4px solid aquamarine;
+ 
+
+}
+
+
+
+.div7{
+    background-color:  aquamarine;
+    text-align: center;
+    color:  rgb(252, 253, 253);
+    width: 100%;
+    padding: 80px;
+    border-top: 4px solid rgb(249, 252, 251);
+
+}
+
+.div8{
+    background-color: rgb(34, 48, 43);
+    text-align: center;
+    color:  aquamarine;
+    padding: 80px;
+    width: 100%;
+    border-top: 4px solid aquamarine;
+
+
+}
+
+.div9{
+    background-color:  aquamarine;
+    text-align: center;
+    color:  rgb(252, 253, 253);
+    padding: 80px;
+    width: 100%;
+    border-top: 4px solid rgb(245, 248, 247);
+    
+}
+
+/* sec2 start */
+#sec2 h1{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.maindiv3{
+    display: flex;
+    
+    margin: 2%;
+    margin-top: 2%;
+  padding-left: 10%;
+  padding-right: 10%;
+  
+}
+
+.maindiv3 i{
+    color: aquamarine;
+}
+
+.maindiv4{
+    display: flex;
+    
+    margin: 2%;
+    margin-top: 2%;
+  padding-left: 10%;
+  padding-right: 10%;
+  
+}
+
+.maindiv4 i{
+    color: aquamarine;
+}
+
+.maindiv5{
+    display: flex;
+    
+    margin: 2%;
+    margin-top: 2%;
+  padding-left: 10%;
+  padding-right: 10%;
+  
+}
+
+.maindiv5 i{
+    color: aquamarine;
+}
+
+
+/* sec2 end */
+/* START sec 3 */
+
+#sec3{
+    background-image: url(./TheBibleHacker.png);
+    text-align: center;
+    color: white;
+}
+.h1{
+    padding-top: 4%;
+    padding-left: 30%;
+}
+
+
+
+.ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding-top: 4%;
+   padding-left: 35%;
+}
+
+.ul li{
+    margin: 2%;
+}
+.li1{
+    border-top: 2px solid aquamarine;
+    color: aquamarine;
+}
+
+.div12{
+   margin-left: 54%;
+   padding-bottom: 4%;
+  
+
+}
+
+.div12 input{
+    border: 1px solid white;
+    display: flex;
+    margin: 1.5%;
+    width: 400px;
+    color: white;
+    background-color: transparent;
+
+}
+
+/* end sec 3 */
+
+/* SEC4 start */
+#sec4{
+    background-color: azure;
+}
+.h2{
+    text-align: center;
+    padding-top: 3%;
+}
+
+.div13{
+  text-align: center;
+  padding-top: 5%;
+}
+.btn5{
+    border: solid 1px rgb(127, 214, 255);
+   text-align: center;
+}
+
+.div13 button{
+    border: 1px solid azure;
+    padding: 4px 8px;
+    background-color: white;
+}
+#main{
+    text-align: center;
+    padding: 2% 0%;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.maindiv6 img{
+    display: flex;
+    width: 220px;
+    height: 200px;
+    margin: 3px;
+
+    
+}
+.maindiv7 img{
+    display: flex;
+    margin: 3px;
+
+    width: 220px;
+    height: 200px;
+}
+.maindiv8 img{
+    display: flex;
+    margin: 3px;
+
+    width: 220px;
+    height: 200px;
+}
+.btn6{
+ 
+    background-color: aquamarine;
+    color: white;
+    padding:  8px;
+    margin-left: 45%;
+    border-radius: 3px;
+}
+/* sec4 end */
+
+/* sec5 start */
+.H3{
+    text-align: center;
+    padding: 3%;
+}
+
+
+.div14{
+    text-align: center;
+}
+
+.div14 button{
+  padding: 5px 8px;  
+}
+.btn7{
+    background-color: aquamarine;
+    border: 1px solid white;
+    height: 35px;
+   
+}
+.maindiv9{
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+    
+}
+.img1{
+    width: 100px;
+    height: 80px;
+    margin: 15px;
+}
+.pera{
+    font-size: 12px;
+    width: 500px;
+}
+
+/* sec5 end */
+
+/* sec6 start */
+
+#sec6{
+    background-image: url(./TheBibleHacker.png);
+    text-align: center;
+    padding: 5%;
+    margin-top: 3%;
+
+}
+#sec6 h1{
+    color: rgb(37, 218, 157);
+    font-size: 35px;
+}
+
+#sec6 p{
+    color: rgb(238, 245, 243);
+}
+#sec6 button{
+   background-color: rgb(37, 218, 157);
+   color: white;
+   padding: 10px 15px;
+   border-radius: 4px;
+   margin-top: 3%;
+}
+
+#sec7 h1{
+    text-align: center;
+    padding: 2%;
+}
+
+
+/* sec6 end */
+
+/* sec 7 start */
+.maindiv11{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 15px;
+}
+.div19{
+    margin: 0.5%;
+}
+
+.maindiv11 img{
+    width: 150px;
+    height: 150px;
+ 
+}
+
+.maindiv12{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  font-size: 15px;
+   
+}
+
+
+.maindiv12 img{
+    width: 150px;
+    height: 150px;
+ 
+}
+.btn10{
+    background-color: aquamarine;
+    width: 29px;
+    padding: 5px;
+    font-size: 8px;
+    position: relative;
+    bottom: 210px;
+    left: 61px;
+   
+    
+}
+.btn11{
+    background-color: rgb(47, 83, 71);
+    color: white;
+    width: 29px;
+    padding: 5px;
+    font-size: 8px;
+    position: relative;
+    bottom: 210px;
+    left: 61px;
+
+}
+/* sec 7 end */
+
+.maindiv13{
+    display: flex;
+   
+   
+  }
+  
+ 
+  
+  
+  .div20{
+      background-color: rgb(34, 48, 43);
+      text-align: center;
+      color:  rgb(252, 253, 253);
+      width: 100%;
+     
+      padding: 70px;
+      border-top: 4px solid aquamarine;
+   
+  
+  }
+
+  .div20 i{
+    border: solid 1px  aquamarine;
+    width: 60px;
+    color: white;
+    height: 60px;
+    border-radius: 50%;
+    background-color:  aquamarine;
+  
+  }
+
+  .div21 i{
+    border: solid 1px  rgb(34, 48, 43);
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: rgb(34, 48, 43);
+  
+  }
+
+  .div22 i{
+    border: solid 1px  aquamarine;
+    width: 60px;
+    color: white;
+    height: 60px;
+    border-radius: 50%;
+    background-color:  aquamarine;
+  
+  }
+
+  .div23 i{
+    border: solid 1px   rgb(34, 48, 43);
+    width: 60px;
+    height: 60px;
+    color: white;
+    border-radius: 50%;
+    background-color: rgb(34, 48, 43);
+  
+  }
+  
+  
+  
+  .div21{
+      background-color:  aquamarine;
+      text-align: center;
+      color:  rgb(14, 15, 15);
+      width: 100%;
+      color: white;
+      padding: 70px;
+      border-top: 4px solid  rgb(34, 48, 43);
+  
+  }
+  
+  .div22{
+      background-color: rgb(34, 48, 43);
+      text-align: center;
+      color:  rgb(252, 253, 253);
+      padding: 70px;
+      width: 100%;
+      border-top: 4px solid aquamarine;
+  
+  
+  }
+  
+  .div23{
+      background-color:  aquamarine;
+      text-align: center;
+      color:  rgb(3, 3, 3);
+      padding: 70px;
+      width: 100%;
+      border-top: 4px solid  rgb(34, 48, 43);
+      
+  }
+
+
+  /* sec8 start */
+#sec8 h1{
+    text-align: center;
+    padding: 3%;
+
+}
+
+.maindiv14{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 3%;
+}
+
+
+
+.div24 input{
+    display: flex;
+    text-align: center;
+ 
+}
+
+
+.button1{
+    background-color: rgb(34, 48, 43);
+    color: white;
+    width: 188px;
+    height: 35px;
+}
+
+
+.button2{
+    background-color: aquamarine;
+    color: white;
+    width: 188px;
+    height: 35px;
+}
+
+.btn15{
+    background-color: rgb(34, 48, 43);
+    color: white;
+    border-radius: 3px;
+    
+    font-size: 10px;
+    width: 70px;
+    height: 25px;
+    margin: 10px;
+    margin-left: 52px;
+}
+
+.btn16{
+    background-color: aquamarine;
+    color: white;
+    border-radius: 3px;
+    
+    font-size: 10px;
+    width: 70px;
+    height: 25px;
+    margin: 10px;
+    margin-left: 52px;
+
+
+}
+
+.div25{
+    border: 1px solid black;
+    width: 188px;
+}
+  /* sect 8 end */
+
+  /* sec9 start */
+
+  #sec9{
+      background-image: url(./TheBibleHacker.png);
+      padding-bottom: 3%;
+  }
+  .div26{
+      padding-top: 3%;
+      text-align: center;
+      color: white;
+  }
+
+  .div26 h3{
+      font-size: 30px;
+      transform: rotate(180deg);
+      color: aquamarine;
+  }
+
+  .div26 h4{
+ 
+
+    color: aquamarine;
+}
+ .div26 img{
+     width: 60px;
+     border: 2px solid aquamarine;
+     border-radius: 50%;
+ }
+ .div27{
+     margin-top: 4%;
+     margin-right: 40px;
+    
+ }
+ .div27 img{
+     width: 30px;
+     margin: 3px;
+ 
+ }
+
+  .btn166{
+     background-color: transparent;
+     width: 30px;
+     color: white;
+ } 
+
+ .btn17{
+    background-color: aquamarine;
+    width: 30px;
+    margin-left: 9px;
+}
+
+
+ .peraa3{
+    text-align: center;
+    color: white;
+    padding: 0% 20%;
+    font-size: 15px;
+   
+    
+  
+} 
+  /* sec9 end */
+  /* sec10 start */
+  #sec10 h1{
+      text-align: center;
+      padding: 3%;
+  }
+.div28{
+    margin: 1%;
+    color: white;
+}
+  .div28 img{
+      width: 150px;
+     
+
+  }
+  .div29{
+      background-color: aquamarine;
+      width: 150px;
+      position: relative;
+      bottom: 30px;
+     
+      
+  }
+  .div29 i{
+      border: solid 1px white;
+      width: 32px;
+      text-align: center;
+      height: 19px;
+      padding-bottom: 10px;
+     
+      border-right: none;
+      border-top: none;
+  }
+  .maindiv15{
+      display: flex;
+      justify-content: center;
+      
+  }
+
+  .div30{
+      background-color: rgb(56, 95, 82);
+      width: 150px;
+      position: relative;
+      bottom: 30px;
+    
+  }
+  .div30 i{
+    border: solid 1px white;
+    width: 33px;
+    text-align: center;
+    height: 15px;
+    padding-bottom: 10px;
+    
+    border-right: none;
+    border-top: none;
+}
+   /* sec10 end*/
+
+
+    /* sec11  start*/
+    #sec11{
+        background-image: url(./TheBibleHacker.png);
+        padding-top: 3%;
+    }
+
+    #sec11 h1{
+        text-align: center;
+        color: white;
+    }
+
+    #sec11 h3{
+        text-align: center;
+        color: aquamarine;
+       position: relative;
+       bottom: 15px;
+    } 
+
+    .div31{
+
+        color: white;
+        padding: 3%;
+        margin-left: 20%;
+     font-size: 18px;
+     text-align: center;
+         }
+
+
+         .btnm{
+
+        margin-left: 55%;
+        background-color: aquamarine;
+        padding: 8px 12px;
+        color: white;
+        border-top: 2px solid white;
+        border-radius: 3px;
+       margin-bottom: 10%;
+        
+            
+
+         }
+       
+     /* sec11 end*/
+
+
+     /* sec12 start  */
+
+     #sec12{
+         padding: 5% 0%;
+     }
+     .maindiv20{
+         display: flex;
+     }
+       
+     .div32 img{
+         width: 500px;
+         height: 290px;
+     }
+.div33{
+    margin-left: 20px;
+}
+.div33 input{
+    width: 255px;
+    margin: 4px;
+}
+     .div33 h2{
+       
+    position: relative;
+    bottom: 27px;
+
+
+     }
+
+     .text{
+        
+         height: 100px;
+        
+           margin-left: 40px;  
+         padding-right: 100px;
+         position: relative;
+         top: 130px;
+         right: 309px;
+          
+        
+     }
+
+.dbtn{
+     margin-top: 280px; 
+    width: 270px;
+    height: 40px;
+    position: relative;
+    right: 578px; 
+    bottom: 30px;
+    background-color: aquamarine;
+    color: white;
+    border: solid 1px white;
+}
+
+
+
+     /* sec12 end */
+  
+     /* sec13 strat */
+  #sec13{
+      /* background-image: url(./TheBibleHacker.png); */
+      background-color: rgb(64, 71, 69);
+      color: white;
+      padding: 3% 18%;
+  }
+.mandiv1{
+    display: flex;
+}
+  .diva p{
+      font-size: 10px;
+      width: 200px;
+
+  }
+
+  .divc{
+      font-size: 10px;
+      display: flex;
+  }
+  .divc p{
+      margin-left: 5px;
+     position: relative;
+     bottom: 10px;
+  }
+ .peraaa{
+     width: 200px;
+ }
+.divc img{
+    width: 50px;
+    height: 40px;
+}
+
+.dive button{
+    border: solid white 1px;
+background-color: transparent;
+padding: 5px 12px;
+font-size: 8px;
+color: white;
+}
+.peraas{
+    font-size: 10px;
+    width: 150px;
+}
+
+.divinput input{
+    width: 100px;
+    background-color: transparent;
+    text-align: left;
+   
+    font-size: 10px;
+}
+
+.divinput button{
+   
+    background-color: transparent;
+    text-align: left;
+   color: rgb(32, 214, 154);
+    font-size: 10px;
+    position: relative;
+    right: 4px;
+}
+.divf{
+    padding-left: 60px;
+}
+.divg img{
+    width: 40px;
+    height: 40px;
+}
+
+.divh{
+   padding: 5px;
+    background-color: rgb(73, 94, 87);
+    text-align: center;
+}
+     /* sec13 end */
+  
+
+
+
+
